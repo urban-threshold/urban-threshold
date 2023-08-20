@@ -1,6 +1,6 @@
 # Urban Threshold - Terragazer
 
-[img](Mock.jpg)
+![img](Mock.jpg)
 
 **Gamification:** The app uses the principle of gamification to engage modern youth. Users post short videos of tourist attractions and others try to guess their location. Points are awarded based on the accuracy of the guesses. 
 

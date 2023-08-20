@@ -2,7 +2,7 @@
 
 ![img](TerraGazer.jpg)
 
-Tourism in Australia accounts for over $35b of GDP in FY22, with youth tourism making up a significant portion of that figure (according to Tourism Australia). Youth tourism is also very important for the transfer of culture between generations, something that cannot be measured by numbers. We aim to increase the availability of youth tourism through our app Terragazer.
+#### Tourism in Australia accounts for over $35b of GDP in FY22, with youth tourism making up a significant portion of that figure (according to Tourism Australia). Youth tourism is also very important for the transfer of culture between generations, something that cannot be measured by numbers. We aim to increase the availability of youth tourism through our app Terragazer.
 
 ## Why is our app different? 
 

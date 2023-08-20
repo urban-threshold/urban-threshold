@@ -2,6 +2,8 @@
 
 ![img](TerraGazer.jpg)
 
+[Our Mockup](https://www.figma.com/proto/Na3PsvWilKynPTZtnF9tG8/Mock?type=design&node-id=23-59&t=GM6bWVwFR1FYCdjk-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=23%3A59&mode=design) | [Hackerspace Project](https://hackerspace.govhack.org/projects/terragazer) | [YouTube Video](https://youtu.be/zfWL4CPNKO4)
+
 #### Tourism in Australia accounts for over $35b of GDP in FY22, with youth tourism making up a significant portion of that figure (according to Tourism Australia). Youth tourism is also very important for the transfer of culture between generations, something that cannot be measured by numbers. We aim to increase the availability of youth tourism through our app Terragazer.
 
 ## Why is our app different? 
